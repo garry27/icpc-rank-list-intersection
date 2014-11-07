@@ -1,0 +1,4 @@
+catalyst | Rajiv Gandhi College Of Engg And Research, Nagpur | [3, 'amr(1241)', 'kan(481)', 'kgp(421)']
+Dynamites | Indian Institute of Technology Kharagpur | [3, 'amr(131)', 'kan(162)', 'kgp(62)']
+astralfun | The LNM Institute of Information Technology | [3, 'amr(370)', 'kan(99)', 'kgp(290)']
+#CompressionBomb | National Institute of Technology Tiruchirappalli | [3, 'amr(1383)', 'kan(387)', 'kgp(271)']
